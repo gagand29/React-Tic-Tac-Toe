@@ -134,5 +134,3 @@ You can add:
 
 Thanks for checking out my project! 🙌  
 — **Made with ❤️ by Me**
-
-```
